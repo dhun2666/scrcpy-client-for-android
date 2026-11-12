@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_connection_refused">Connection refused by %1$s. The connection was explicitly rejected. Check that ADB or Wireless debugging is enabled and that you are using its current connection port, not its pairing port.</string>
+    <string name="error_not_responding">%1$s is not responding. The device did not complete the requested connection step before the deadline. Check the address and network, wake and unlock the device, and accept an Allow debugging prompt if one is waiting.</string>
+</resources>
